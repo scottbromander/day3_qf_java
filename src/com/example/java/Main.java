@@ -14,6 +14,7 @@ public class Main {
         //Dis is my robot!
         Scanner sc = new Scanner(System.in);
 
+        //Ask the user for their name
         String enteredName;
         enteredName = sc.nextLine();
 
