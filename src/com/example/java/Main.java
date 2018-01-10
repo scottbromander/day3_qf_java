@@ -10,6 +10,7 @@ public class Main {
 
         System.out.println("Enter your name:");
 
+        //Dis is my robot!
         Scanner sc = new Scanner(System.in);
 
         String enteredName;
