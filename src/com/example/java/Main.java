@@ -20,6 +20,7 @@ public class Main {
 
         //String enteredName = sc.nextLine();
 
+        //Say hi to the user
         System.out.println("Hello " + enteredName);
     }
 }
